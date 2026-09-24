@@ -1,0 +1,2 @@
+# arduino-ldr-sensor-projects
+Arduino LDR sensor projects and interfacing guide covering LDR working principle, full form, wiring, Arduino examples, light detection, automatic lighting, calibration, troubleshooting, and practical applications.
